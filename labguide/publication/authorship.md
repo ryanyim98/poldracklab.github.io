@@ -42,7 +42,7 @@ agreement.
 
 ## Affiliation
 
-1. The listed affiliation should
+- The listed affiliation should
 include any institutions where one was affiliated while completing the
 work.   
     - Any work completed at
